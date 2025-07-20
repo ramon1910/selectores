@@ -1,0 +1,48 @@
+ *{margin: 0;
+   padding: 0; 
+   box-sizing: border-box;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ .azul { text-align: center;
+color: blue;
+}
+.verde { text-align: center;
+    color: green;
+}
+.rojo {text-align: center;
+    color: red;
+}
+.marron{ text-align: center;
+    color: maroon;
+}
+.fucshia{ text-align: center;
+    color: fuchsia;
+}
+.magenta{ text-align: center;
+    color: magenta;
+}
+
+.azul {
+    background-color: aqua;
+}
+.verde {
+    background-color: blue;
+}
+.rojo {
+    background-image: rgb(95, 116, 22);
+}
+.marron {
+    background-color: beige;
+}
+.fucshia{
+    background-color: aqua;
+}
+.magenta{
+    background-color: aliceblue;
+}
+body{
+    background-image: url(imag.avif);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 350px;
+}
